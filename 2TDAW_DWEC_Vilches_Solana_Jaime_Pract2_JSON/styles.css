@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://media.vandalsports.com/master/7-2020/202071155927_1.jpg);
+    background-attachment: fixed;
+  }
+
+  fieldset{
+    border-radius: 7%; 
+    border-color: #f4b734;
+  }
+  
+  .item{
+      background-color:#000000;
+      color: #ffffff;
+      border-radius: 5%;
+      padding-bottom: 2%;
+      margin-bottom: 5%;
+      width:50%;
+      margin-left: 44%;
+      text-align: center;
+      display: inline-block;
+  }
+  
+  .item img {
+    border: 3px solid #f4b734;
+    width: 50%;
+    border-radius: 1%;
+    margin-left:9.5%;
+  }
+  
+  .item h1 {
+    background-color:#220a0c;
+    color: #ffffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left:9.5%;
+    border: 3px solid #f4b734;
+    width: 75%;
+  }
+  
+  .item h2 {
+    background-color:#220a0c;
+    color: #ffffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left:9.5%;
+    border: 3px solid #f4b734;
+    width: 75%;
+  }
+  
+  .item p{  
+    background-color:#220a0c;
+    color: #ffffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left:9.5%;
+    border: 3px solid #f4b734;
+    width: 75%;
+  }
